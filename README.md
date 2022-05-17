@@ -28,7 +28,7 @@ yarn dev
 
 
 <br><br>
-## [Check Internal Documentation](/docu/TilesetsAndTilemaps)
+## [Check Internal Documentation](/docu/TilesetsAndTilemaps.md)
 
 
 
