@@ -1,6 +1,8 @@
 # Internal Documentation
 
-## Collisions
+## TroubleShoot
+
+### Collisions
 
 If you are having issues with the colissions when render a new tilemap:
 
@@ -10,7 +12,7 @@ If you are having issues with the colissions when render a new tilemap:
 
 <br><br>
 
-## Scene is not loaded
+### Scene is not loaded
 
 Probably the scene is being loaded, rendered and displayed but the camera y way to long from where the map is. Remember the `coords will change in each scene according with the size of the tilemap`. So try:
 
